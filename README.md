@@ -36,7 +36,7 @@ Basic syntax from the python programming language
 The print function is used to display or print output as follows
 
 
-```
+```python
 print("Content that you wanna print on screen")
 ```
 
